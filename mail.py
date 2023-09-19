@@ -12,4 +12,4 @@ if word in meme_dict.keys():
     print(meme_dict[word])
     
 else:word = input("Введите непонятное слово (большими буквами!): ")
-    print('Этого слова ещё нет'
+    print('Этого слова ещё нет')
